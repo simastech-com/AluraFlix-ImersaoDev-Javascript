@@ -1,5 +1,5 @@
 
-//Seleciona o form pelo id e desabilita a submissão padrão. o id do form no html é form.
+//Seleciona o form pelo id e desabilita a submissão padrão. O id do form no html é form.
 document.getElementById("form").addEventListener('submit', (e) => {
     e.preventDefault();
 })
@@ -9,12 +9,12 @@ document.getElementById("btnEnviar").addEventListener('click', (e) => {
     e.preventDefault();
 })
 
-//lista que terá os filmes
+//array que terá os filmes
 var filmes = [];
 
-//evento onclick do botão
+//Evento onclick do botão
 function carregarFilme() {
-    var nomeFilme = document.getElementById("nome").value; //Nome do filme digitado no formulario
+    var nomeFilme = document.getElementById("nome").value; //Nome do filme digitado no formulário
     var posterFilme = document.getElementById("poster").value; //Link do poster digitado no formulário
 
     if (nomeFilme == "") {//Nome do filme está preenchido?
