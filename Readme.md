@@ -15,7 +15,7 @@ Os desafios foram atividades deixadas ao fim da aula para serem resolvidas.
     <li><b>Tentar implementar outras versões da estrutura de repetição que fizemos com for, como por exemplo com foreach ou while:</b> Foi utilizado o foreach. [Realizado]</li>
     <li><b>Criar uma condição para não adicionar filmes repetidos, caso eles já tenham sido adicionados anteriormente:</b> São verificadas repetições no nome e no link informado. [Realizado]</li>
     <li><b>Criar um campo e um botão para adicionar a imagem diretamente na tela, em vez de adicionar no código:</b> Foi incluído um formulário para o usuário adicionar os itens que deseja. [Realizado]</li>
-    <li><b>Permitir apenas imagens jpg:</b> São permitidos apenas os links que terminem com .jpg[Realizado]</li>
+    <li><b>Permitir apenas imagens jpg:</b> São permitidos apenas os links que terminem com .jpg. [Realizado]</li>
     <li><b>Colocar nomes dos filmes:</b> O nome informado pelo usuário é adicionado abaixo de cada filme. [Realizado]</li>
 </ul>
 
