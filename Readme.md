@@ -1,6 +1,6 @@
 ## AluraFlix
 
-<img src="https://github.com/simastech-com/JogoMentalista-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
+<img src="https://github.com/simastech-com/AluraFlix-ImersaoDev-Javascript/blob/main/img/splash.png" width="600">
 
 Projeto desenvolvido na imersão JavaScript da Alura, realizada entre os dias 13/11/2023 e 17/11/2023. Trata-se de uma galeria de capas de filmes. Este projeto foi desenvolvido no terceiro dia da imersão (15/11/2023).
 
@@ -28,5 +28,5 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 </ul>
 
 # Visualização
-Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/JogoMentalista-ImersaoDev-Javascript/
+Para visualizar e interagir com  página, acesse este link: https://simastech-com.github.io/AluraFlix-ImersaoDev-Javascript/
 
