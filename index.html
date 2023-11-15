@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Aluraflix</title>
+</head>
+
+<body">
+    <div id="controle">
+        <div class="container">
+            <h1 class="page-title">
+                Aluraflix
+            </h1>
+            <img src="img/logo-imersao-aluraflix.svg" class="page-logo" alt="">
+        </div>
+        <a href="https://alura.com.br/" target="_blank">
+            <img src="img/alura-logo.svg" alt="" class="alura-logo">
+        </a>
+
+        <form id="form">
+            <label for="nome">Informe o nome do filme</label>
+            <input type="text" name="nome" id="nome">
+
+            <label for="poster">Informe o link do poster do filme</label>
+            <input type="text" name="poster" id="poster">
+
+            <button id="btnEnviar" onclick="carregarFilme()">Enviar</button>
+        </form>
+    </div>
+    <div class="galeria">
+        <h2>Galeria</h2>
+        <div id="galeria-content">
+        </div>
+    </div>
+
+
+    <script src="calc.js"></script>
+    </body>
+
+</html>
