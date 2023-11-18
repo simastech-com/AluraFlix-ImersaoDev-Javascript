@@ -25,6 +25,7 @@ As melhorias são itens incluídos no projeto e que não foram solicitados nas a
 <ul>
     <li>Tratamento para obrigar usuário a informar nome e link do poster.</li>
     <li>Alterações de css e inclusão de algumas imagens localmente.</li>
+    <li>Inclusão de favicon.</li>
 </ul>
 
 # Visualização
